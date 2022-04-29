@@ -1,1 +1,4 @@
-print(5+4)
+name = input()
+
+if name = 'egor':
+  print(5+4)
